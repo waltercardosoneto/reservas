@@ -99,7 +99,7 @@ export default function HomePage() {
                 ]
               }
             >
-              <Text>Book a new space for your upcoming events.</Text>
+              <Text>Book a new space for your upcoming events!</Text>
             </Card>
           </Col>
         </Row>
